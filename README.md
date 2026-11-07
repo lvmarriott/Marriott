@@ -4,4 +4,4 @@ Throwaway repo for testing Cursor cloud agents and interacting with them from th
 
 ## Tasks for the agent
 
-- [ ] Create `hello.py` that prints a greeting.
+- [x] Create `hello.py` that prints a greeting.
